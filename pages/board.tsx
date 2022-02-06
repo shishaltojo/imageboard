@@ -1,12 +1,12 @@
 import React from 'react';
 import type { NextPage } from 'next';
 
-const Home: NextPage = () => {
+const Board: NextPage = () => {
 	return (
 		<div>
-			<h1>imageboard</h1>
+			<h1>board</h1>
 		</div>
 	);
 };
 
-export default Home;
+export default Board;
