@@ -13,4 +13,7 @@ const Board: NextPage = () => {
 	);
 };
 
+export async function getServerSideProps() {
+}
+
 export default Board;
